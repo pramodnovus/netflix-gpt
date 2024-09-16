@@ -71,6 +71,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ######################################################
 -Create React App
 -Config TailwindCSS
+
+
+- create react app
+ - npx create-react-app netflix-clone
+  - configration tailwindcss
+  - Header
+  - Router of App
+  - Login
+  - Signup
+  - Form validation
+  - firebase
+  - useRef Hook
+
 -
 # Feautes
 - Login/Signup
